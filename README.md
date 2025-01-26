@@ -13,3 +13,9 @@ Segunda etapa:
 - Classe de associação, embedded id
 - Consultas SQL no Spring Data JPA
 - Projections
+
+Terceira etapa:
+- Ambiente local com Docker Compose
+- Processo de homologação local
+- Processo de deploy com CI/CD
+- Configuração de CORS
