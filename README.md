@@ -7,3 +7,9 @@ Primeira etapa:
 - Padrão camadas
 - Controller, service, repository
 - Padrão DTO
+
+Segunda etapa:
+- Relacionamentos N-N
+- Classe de associação, embedded id
+- Consultas SQL no Spring Data JPA
+- Projections
