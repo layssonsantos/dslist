@@ -15,7 +15,7 @@ Segunda etapa:
 - Projections
 
 Terceira etapa:
-• Ambiente local com Docker Compose
-• Processo de homologação local
-• Processo de deploy com CI/CD
-• Configuração de CORS
+- Ambiente local com Docker Compose
+- Processo de homologação local
+- Processo de deploy com CI/CD
+- Configuração de CORS
